@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationTut1</string>
+    <string name="action_settings">Settings</string>
+    <string name="notification">Notify me</string>
+    <string name="alarm_set">Set Alarm</string>
+    <string name="alarm_cancel">Cancel Alarm</string>
+
+</resources>
